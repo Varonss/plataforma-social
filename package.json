@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Varonss/plataforma-social/issues"
   },
-  "homepage": "https://github.com/Varonss/plataforma-social#readme"
+  "homepage": "https://github.com/Varonss/plataforma-social#readme",
+  "dependencies": {
+    "webpack": "^4.30.0"
+  }
 }
