@@ -1,0 +1,27 @@
+{
+  "name": "plataforma-social",
+  "version": "1.0.0",
+  "description": "Fomentar el trabajo en cada una de las comunidades del país.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varonss/plataforma-social.git"
+  },
+  "keywords": [
+    "Fullstack",
+    "React",
+    "js",
+    "and",
+    "Front-end",
+    "dev"
+  ],
+  "author": "Ricardo Varona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varonss/plataforma-social/issues"
+  },
+  "homepage": "https://github.com/Varonss/plataforma-social#readme"
+}
