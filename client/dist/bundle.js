@@ -93,19 +93,19 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-    eval("throw new Error(\"Module build failed (from ./node_modules/eslint-loader/index.js):\\nError: No ESLint configuration found.\\n    at Config.getLocalConfigHierarchy (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint/lib/config.js:255:39)\\n    at Config.getConfigHierarchy (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint/lib/config.js:179:43)\\n    at Config.getConfigVector (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint/lib/config.js:286:21)\\n    at Config.getConfig (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint/lib/config.js:329:29)\\n    at processText (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint/lib/cli-engine.js:161:33)\\n    at CLIEngine.executeOnText (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint/lib/cli-engine.js:595:17)\\n    at lint (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint-loader/index.js:253:17)\\n    at Object.module.exports (/home/richie/Documents/Challenges/latest_boilerplate/node_modules/eslint-loader/index.js:248:21)\");\n\n//# sourceURL=webpack:///./client/src/Index.js?");
+eval("throw new Error(\"Module build failed (from ./node_modules/eslint-loader/index.js):\\nError: No ESLint configuration found.\\n    at Config.getLocalConfigHierarchy (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint\\\\lib\\\\config.js:268:39)\\n    at Config.getConfigHierarchy (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint\\\\lib\\\\config.js:192:43)\\n    at Config.getConfigVector (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint\\\\lib\\\\config.js:299:21)\\n    at Config.getConfig (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint\\\\lib\\\\config.js:342:29)\\n    at processText (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint\\\\lib\\\\cli-engine.js:181:33)\\n    at CLIEngine.executeOnText (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint\\\\lib\\\\cli-engine.js:690:40)\\n    at lint (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint-loader\\\\index.js:263:17)\\n    at Object.module.exports (C:\\\\Users\\\\Ricardo\\\\Documents\\\\project\\\\plataforma-social\\\\plataforma-social\\\\node_modules\\\\eslint-loader\\\\index.js:258:21)\");\n\n//# sourceURL=webpack:///./client/src/Index.js?");
 
-    /***/ }),
-    
-    /***/ 0:
-    /*!***********************************!*\
-      !*** multi ./client/src/Index.js ***!
-      \***********************************/
-    /*! no static exports found */
-    /***/ (function(module, exports, __webpack_require__) {
-    
-    eval("module.exports = __webpack_require__(/*! ./client/src/Index.js */\"./client/src/Index.js\");\n\n\n//# sourceURL=webpack:///multi_./client/src/Index.js?");
-    
-    /***/ })
-    
-    /******/ });
+/***/ }),
+
+/***/ 0:
+/*!***********************************!*\
+  !*** multi ./client/src/Index.js ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__(/*! ./client/src/Index.js */\"./client/src/Index.js\");\n\n\n//# sourceURL=webpack:///multi_./client/src/Index.js?");
+
+/***/ })
+
+/******/ });
