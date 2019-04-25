@@ -2,7 +2,12 @@ const path = require('path');
 
 module.exports = {
   entry: [
-    './client/src/Index.js'
+    './client/src/Index.js',
+    './client/src/components/App.js',
+    './client/src/components/Home.js',
+    './client/src/components/About.js',
+    './client/src/components/Contact.js',
+    './client/src/components/Header.js'
   ],
   output: {
     filename: 'bundle.js',
@@ -16,13 +21,6 @@ module.exports = {
           'babel-loader'
         ],
         exclude: /node_modules|packages/,
-      },
-      {
-        test: /\.jsx?$/,
-        exclude: /node_modules/,
-        use: [
-          'eslint-loader'
-        ]
       },
       {
         test: /\.css$/,

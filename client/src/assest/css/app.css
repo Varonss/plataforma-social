@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+ .menu-ul{
+    list-style-type: none;
+    margin: 0;
+    float: right;
+    margin-right: 20px
+ }
+ .menu-ul li{
+    display: inline-block;
+    margin-left: 10px
+}
+.logo{
+  width: 40px
+}
+.Header{
+  background-color: lightskyblue;
+  padding: 10px
+}
